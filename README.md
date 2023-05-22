@@ -1,3 +1,10 @@
+#Feature of this project
+- redux toolkit.
+- price update .
+- search car.
+- add car.
+- remove car.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
